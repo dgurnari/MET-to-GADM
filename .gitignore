@@ -4,3 +4,4 @@ logs/.DS_Store
 out/level_0/.DS_Store
 out/level_1/.DS_Store
 to_upload/.DS_Store
+*.ipynb
